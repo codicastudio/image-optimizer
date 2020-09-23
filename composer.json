@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/imageoptimizer",
+    "name": "codica-studio/imageoptimizer",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/imageoptimizer",
+    "homepage": "https://github.com/codica-studio/imageoptimizer",
     "license": "MIT",
     "authors": [
         {
